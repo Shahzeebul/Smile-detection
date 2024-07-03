@@ -79,9 +79,10 @@ Here's a brief explanation of the main parts of the code:
 
 Feel free to fork this repository, make improvements, and submit pull requests. Your contributions are welcome!
 
-## License
+## Example
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![Screenshot (88)](https://github.com/Shahzeebul/Smile-detection/assets/104351775/bd50d174-676b-4ee9-8ee9-4b713da250d0)
+
 
 ---
 
